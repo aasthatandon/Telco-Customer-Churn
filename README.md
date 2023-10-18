@@ -21,6 +21,6 @@ Dataset is available on Kaggle at the following link : https://www.kaggle.com/da
 <img width="602" alt="image" src="https://github.com/aasthatandon/Telco-Customer-Churn/assets/28407844/d7d86e2d-7149-47bd-b1ef-9fc75add38bd">
 
 ## Files Overview : 
-Telco_Customer_Churn_Predictive_Model.ipynb : Complete analysis codes<br>
-Telco_Customer_Churn_Report.pdf : Detailed report for the analysis
+```Telco_Customer_Churn_Predictive_Model.ipynb``` : Complete analysis codes<br>
+```Telco_Customer_Churn_Report.pdf``` : Detailed report for the analysis
 
